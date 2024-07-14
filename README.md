@@ -8,7 +8,7 @@
 
 [Drive Link for Screenshots & Repository](https://drive.google.com/file/d/1zABh3bvIofDrXo_TRQL5Wnuidjw8S_BF/view)
 
-_Note: The app's functionality may not work as hosted API is currently not operational due to the Ministry's agreement for the competition being limited to three months._
+_Note: The app's all the functionality may not work as hosted API is currently not operational due to the Ministry's agreement for the competition being limited to three months._
 
 ## 2. Bangladesh Navy - DRB Project
 
