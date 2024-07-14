@@ -1,0 +1,9 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(../vendor_components/bootstrap/dist/css/bootstrap.css);  
+@import url(../vendor_components/datatable/datatables.min.css);  
+
+@import url(../vendor_components/perfect-scrollbar/css/perfect-scrollbar.css);
+
+/*# sourceMappingURL=vendors_css.css.map */

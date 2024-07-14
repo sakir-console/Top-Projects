@@ -1,0 +1,2 @@
+Amar Bangabandhu web
+"Amar Bangabandhu" is an interactive and educational game designed to educate and engage players with the life and legacy of Bangabandhu Sheikh Mujibur Rahman, the founding leader of Bangladesh. This Flutter-based mobile application includes a user-friendly interface and a robust backend powered by Laravel.
