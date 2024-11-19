@@ -1,2 +1,2 @@
 # Top projects
-## Github Branch: Master
+## Github Branch: Select 'Master' branch
